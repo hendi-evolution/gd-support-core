@@ -1,0 +1,3 @@
+rootProject.name='gd-core-support-app'
+include ':app'
+include ':support-core'
